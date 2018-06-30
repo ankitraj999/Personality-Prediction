@@ -10,7 +10,11 @@ Uses scikit-learn machine learning python library,matplot-lib and self-made data
 
 # Personality to be predicted:
 1.Energetic Trait
+
 2.Optimistic Trait
+
 3.sloppy Trait
+
 4.Extrovert Trait
+
 5.Introvert Trait
