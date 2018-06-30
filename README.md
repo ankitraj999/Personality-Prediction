@@ -21,7 +21,7 @@ Uses scikit-learn machine learning python library,matplot-lib and self-made data
 
 
 #Input file
-ANKIT.jpg
+ANKIT.jpeg
 
 #output file
-OUTPUT.png
+output.PNG
