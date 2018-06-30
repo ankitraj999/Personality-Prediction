@@ -18,3 +18,10 @@ Uses scikit-learn machine learning python library,matplot-lib and self-made data
 4.Extrovert Trait
 
 5.Introvert Trait
+
+
+#Input file
+ANKIT.jpg
+
+#output file
+OUTPUT.png
